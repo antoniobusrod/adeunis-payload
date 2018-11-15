@@ -1,0 +1,19 @@
+{
+  "name": "adeunis-payload",
+  "version": "1.0.0",
+  "description": "Compose adeunis field test device payload",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "pretest": "npm run lint",
+    "test": "mocha"
+  },
+  "keywords": ["LoRaWAN", "adeunis", "field test device", "payload"],
+  "author": "Antonio Bustos",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "4.2.0",
+    "mocha": "5.2.0",
+    "standard": "12.0.1"
+  }
+}
