@@ -1,6 +1,6 @@
 {
   "name": "adeunis-payload",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Compose adeunis field test device payload",
   "main": "index.js",
   "scripts": {
