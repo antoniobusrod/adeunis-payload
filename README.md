@@ -1,6 +1,6 @@
 # Adeunis field test device "LoRaWAN Europe EU863-870"
 
-[![Build Status](https://travis-ci.org/antoniobusrod/adeunis-payload.svg?branch=master)](https://travis-ci.org/antoniobusrod/adeunis-payload)
+[![Build Status](https://travis-ci.org/antoniobusrod/adeunis-payload.svg?branch=master)](https://travis-ci.org/antoniobusrod/adeunis-payload)[![npm version](https://badge.fury.io/js/adeunis-payload.svg)](https://badge.fury.io/js/adeunis-payload)
 
 Generates field test device payload properties from user guide v1.2.2
 
